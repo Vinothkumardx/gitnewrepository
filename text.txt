@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Git used document
 
 1.First create github login
@@ -36,3 +37,9 @@ same time our created branch to our main branch merge not possible that time cre
  New Repository created how to added our local repository
 
  git remote copy code(git remote https://github.com/Vinothkumardx/gitnewrepository.git)
+=======
+create new text file
+Add new file
+Add new file
+Add new file
+>>>>>>> 71c2f16147f8277a57e7d339242852226aaf60b8
