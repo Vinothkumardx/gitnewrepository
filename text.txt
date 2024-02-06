@@ -1,1 +1,38 @@
-create new text file
+Git used document
+
+1.First create github login
+2.To create new repository(Repository is nothing but just folder creaction)
+3.Then add new file (just create same information)
+4.Then created the file how to copy the our local machine
+5.visula studio code open(Already same fille added in our remote so use clone method to added the repository)
+(git clone copy code)(git clone https://github.com/Vinothkumardx/gitnewrepository.git)
+6.Localy one folder created , That folder attached our local machine(visual code)
+7.Then open (Terminal)pass the command cd our Repository name ( cd gitnewrepository)
+8.Then our local machine connect our github(D:\gitfolder\gitnewrepository>)(D-Local folder)
+                                                                           (gitfolder-our created folder)
+                                                                           (gitnewrepository-our create repository)
+9.How to modified the file and then push our github?
+
+10.Just modified the file (That moment create simple -U)(U means untracked)
+11.Then added stage(git add modified file name)(git add text.txt)
+12.Then added the fille check the status(git status)(file name added)
+13.Then commit the changes in our local repository to our remote repository(git commit -m "Add the same massge")
+14.Then push the our remote repository(git push orgin branch name)
+
+Branch creaction
+
+First check what are the branch available (git branch -a)
+Then create new branch (git branch branchname)(git branch newbranch1)
+First our code is main branch there so switch the code our create branch(git checkout new branch name)(git checkout newbranch1)
+This time our code fully copy our newbranch
+Then any modified is bending just finish then push our newbranch
+
+How to modified code merge new branch to our main Branch
+git merge new branch main branch
+
+How to create pull requests
+same time our created branch to our main branch merge not possible that time created pull requests
+
+ New Repository created how to added our local repository
+
+ git remote copy code(git remote https://github.com/Vinothkumardx/gitnewrepository.git)
