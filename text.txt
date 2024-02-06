@@ -37,6 +37,15 @@ same time our created branch to our main branch merge not possible that time cre
  New Repository created how to added our local repository
 
  git remote copy code(git remote https://github.com/Vinothkumardx/gitnewrepository.git)
+
+ git new repository created in floder how to added in github
+ Just created floder the floder reflected in visual studio
+ Then added file or modified the file 
+ Just Terminal type the code(git init)that git repository initialesed 
+ The add and modified the code then push the our remote repository(How to push remote repository)
+ github add (+)simple create new repository
+ Just add the command  (git remote add origin https://github.com/Vinothkumardx/gitrepository2.git)
+ then push (git push origin master)did not main is only master to push
 =======
 create new text file
 Add new file
