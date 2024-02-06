@@ -29,7 +29,7 @@ This time our code fully copy our newbranch
 Then any modified is bending just finish then push our newbranch
 
 How to modified code merge new branch to our main Branch
-git merge new branch main branch
+ first set the main branch then merge(git merge new branch )
 
 How to create pull requests
 same time our created branch to our main branch merge not possible that time created pull requests
