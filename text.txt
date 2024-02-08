@@ -34,7 +34,10 @@ How to modified code merge new branch to our main Branch
 How to create pull requests
 same time our created branch to our main branch merge not possible that time created pull requests
 
- New Repository created how to added our local repository
+ New Repository created how to added our local repository(This method only used current time file creating process only used)
+
+((already completed file added just used Drag and add file in our create new repository in github))
+((That file added in our new repository just clone in our code reader))
 
  git remote copy code(git remote https://github.com/Vinothkumardx/gitnewrepository.git)
 
