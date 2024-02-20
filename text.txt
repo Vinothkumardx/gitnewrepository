@@ -39,8 +39,6 @@ same time our created branch to our main branch merge not possible that time cre
 ((already completed file added just used Drag and add file in our create new repository in github))
 ((That file added in our new repository just clone in our code reader))
 
- git remote copy code(git remote https://github.com/Vinothkumardx/gitnewrepository.git)
-
  git new repository created in floder how to added in github
  Just created floder the floder reflected in visual studio
  Then added file or modified the file 
@@ -49,6 +47,8 @@ same time our created branch to our main branch merge not possible that time cre
  github add (+)simple create new repository
  Just add the command  (git remote add origin https://github.com/Vinothkumardx/gitrepository2.git)
  then push (git push origin master)did not main is only master to push
+You want modified our branch name just use this commant(git branch -M main)
+Then branch name madified master to main
 =======
 create new text file
 Add new file
